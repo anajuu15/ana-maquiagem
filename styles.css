@@ -16,14 +16,18 @@ header {
 
 section{
     background: rgb(141, 170, 196);
-    padding-bottom: 80 px;
-    padding-top: 80 px;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-texto{
         margin-right: 5%;
+    }
+
+    h1{
+        font-size: 40px;
     }
     
 
