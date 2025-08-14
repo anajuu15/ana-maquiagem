@@ -48,5 +48,8 @@ header {
         padding-right: 20pxa;
     }
     
+    .categoria-videos img{
+     opacity: 0.5;
+    }
 
 
