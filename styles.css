@@ -1,6 +1,6 @@
 body{
     color:rgb(13, 100, 161);
-    background:aquamarine;
+    background:aliceblue;
 }
 
 header {
@@ -11,5 +11,5 @@ header {
 }
 
 section{
-    background: aliceblue;
+    background: rgb(141, 170, 196);
 }
