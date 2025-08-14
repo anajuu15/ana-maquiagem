@@ -2,7 +2,9 @@ body{
     color:rgb(32, 127, 194);
     background:rgb(196, 225, 250);
 }
-
+h1{
+    color:rgb(24, 43, 96);
+}
 header {
     border-bottom:solid 2px rgb(209, 98, 237);
     padding: 20px;
@@ -17,6 +19,7 @@ section{
     display: flex;
 }
 
-h1{
-    color:rgb(24, 43, 96);
+div{
+    margin-right: 20px;
 }
+
